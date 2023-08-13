@@ -6,4 +6,4 @@ GD古风标宋体
 
 ![字样图片](dmeo.jpg "DEMO")    
 
-![字样图片](dmeo1.jpg "DEMO1") 
+![字样图片](demo1.jpg "DEMO1") 
