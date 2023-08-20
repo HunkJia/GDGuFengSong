@@ -8,7 +8,9 @@ GD古风标宋体
 
 ![字样图片](demo1.jpg "DEMO1") 
 
-![字样图片](demo2.jpg "DEMO1") 
+![字样图片](demo2.jpg "DEMO2") 
+
+![字样图片](demo3.jpg "DEMO3") 
 
 ## 有什么特点？
 古风宋，尽量保证固体字的意味。
