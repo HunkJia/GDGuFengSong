@@ -4,13 +4,17 @@ GD古风标宋体
 ## GD古风标宋体
 不断添加字形中~
 
-![字样图片](dmeo.jpg "DEMO")    
+![字样图片](demo5.jpg "DEMO3") 
 
-![字样图片](demo1.jpg "DEMO1") 
+![字样图片](demo4.jpg "DEMO3") 
+
+![字样图片](demo3.jpg "DEMO3") 
 
 ![字样图片](demo2.jpg "DEMO2") 
 
-![字样图片](demo3.jpg "DEMO3") 
+![字样图片](demo1.jpg "DEMO1") 
+
+![字样图片](dmeo.jpg "DEMO")    
 
 ## 有什么特点？
 古风宋，尽量保证固体字的意味。
